@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[acm:home|Door43 (acm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-acm|d43-acm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-acm/archive/master.zip|d43-acm.zip]]
+
+**Recent Changes**
+{{changes>ns = acm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/acm|Ethnologue data]]
+
